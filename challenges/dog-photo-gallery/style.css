@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: whitesmoke;
+  font-size: xxx-large;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 20px;
+  text-align: center;
+}
+#newImage {
+  margin-top: 40px;
+  font-size: x-large;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
