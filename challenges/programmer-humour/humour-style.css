@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(189, 126, 126);
+}
+
+#main-body {
+  background-color: black;
+  color: whitesmoke;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
